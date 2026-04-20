@@ -20,4 +20,4 @@ This repository documents my personal journey in learning Machine Learning. It i
 - Python, NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow/Keras
 
 ## Credits
-- Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2025] (https://www.udemy.com/course/machinelearning)
+- [Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2025]](https://www.udemy.com/course/machinelearning)
