@@ -1,4 +1,4 @@
-# Machine Learning Learning Journey
+# Machine-Learning Learning Journey
 
 This repository documents my personal journey in learning Machine Learning. It includes hands-on projects, notebooks, code implementations, and notes based on courses, tutorials, and self-study.
 
