@@ -2,6 +2,9 @@
 
 This repository documents my personal journey in learning Machine Learning. It includes hands-on projects, notebooks, code implementations, and notes based on courses, tutorials, and self-study.
 
+## Credits
+- [Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2025]](https://www.udemy.com/course/machinelearning)
+
 ## Contents
 
 - 📓 Google Colab and experiments
@@ -19,5 +22,4 @@ This repository documents my personal journey in learning Machine Learning. It i
 
 - Python, NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow/Keras
 
-## Credits
-- [Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2025]](https://www.udemy.com/course/machinelearning)
+
